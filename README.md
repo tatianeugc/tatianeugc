@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @tatianeugc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Oi, eu sou @tatianeugc
 
-<!---
-tatianeugc/tatianeugc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Estou interessado em: parcerias, novos colaboradores
+
+- 🌱 Atualmente estou aprendendo : a gravar conteudos
+- 💞️ Estou procurando colaborar em : parcerias
+
+- 📫 Como me alcançar : tatianeblack0@gmail.com
+
+- 😄 Pronomes: ela/dela
+
+- ⚡ Curiosidade :sonho em ser famosa :) !
+
+<3!---
